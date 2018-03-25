@@ -2,7 +2,10 @@
 
 
 
-
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
 
 
 
@@ -32,18 +35,15 @@
 }
 
 /* --- Slides Image - my idea Ziemo_ART TV --- */
-#slides {
+/* #slides {
     width: 100%;
-    height:60vh;
+    height:60%;
     overflow: hidden;
 }
 #slides img {
     width: 100%;
-    height:100%;
-    position:relative;
-    top:-250px;
 
-}
+} */
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
